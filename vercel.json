@@ -1,0 +1,101 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/ac-installation.html",
+      "destination": "/ac-installation",
+      "permanent": true
+    },
+    {
+      "source": "/ac-maintenance.html",
+      "destination": "/ac-maintenance",
+      "permanent": true
+    },
+    {
+      "source": "/ac-repair.html",
+      "destination": "/ac-repair",
+      "permanent": true
+    },
+    {
+      "source": "/ac-repair-henderson.html",
+      "destination": "/ac-repair-henderson",
+      "permanent": true
+    },
+    {
+      "source": "/ac-repair-north-las-vegas.html",
+      "destination": "/ac-repair-north-las-vegas",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/emergency-ac-repair.html",
+      "destination": "/emergency-ac-repair",
+      "permanent": true
+    },
+    {
+      "source": "/heat-pump-repair.html",
+      "destination": "/heat-pump-repair",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/mini-split-repair.html",
+      "destination": "/mini-split-repair",
+      "permanent": true
+    },
+    {
+      "source": "/air-duct-repair.html",
+      "destination": "/air-duct-repair",
+      "permanent": true
+    },
+    {
+      "source": "/thermostat-installation.html",
+      "destination": "/thermostat-installation",
+      "permanent": true
+    },
+    {
+      "source": "/commercial-ac-repair.html",
+      "destination": "/commercial-ac-repair",
+      "permanent": true
+    },
+    {
+      "source": "/ac-refrigerant-recharge.html",
+      "destination": "/ac-refrigerant-recharge",
+      "permanent": true
+    }
+  ]
+}
